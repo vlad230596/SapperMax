@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/source">
+        <file alias="main.qml">qml/SapperMax/main.qml</file>
+        <file alias="MyButton.qml">qml/SapperMax/MyButton.qml</file>
+        <file alias="BodyInset.qml">qml/SapperMax/BodyInset.qml</file>
+        <file alias="BonusButton.qml">qml/SapperMax/BonusButton.qml</file>
+        <file alias="ButtonDifficult.qml">qml/SapperMax/ButtonDifficult.qml</file>
+        <file alias="Cell.qml">qml/SapperMax/Cell.qml</file>
+        <file alias="Inset.qml">qml/SapperMax/Inset.qml</file>
+        <file alias="ResText.qml">qml/SapperMax/ResText.qml</file>
+        <file alias="TableCell.qml">qml/SapperMax/TableCell.qml</file>
+        <file alias="TableRow.qml">qml/SapperMax/TableRow.qml</file>
+        <file alias="TextBlock.qml">qml/SapperMax/TextBlock.qml</file>
+        <file alias="VerticalScrool.qml">qml/SapperMax/VerticalScrool.qml</file>
+        <file alias="Grids.qml">qml/SapperMax/Grids.qml</file>
+        <file alias="Logic.js">qml/SapperMax/Logic.js</file>
+        <file alias="Split.qml">qml/SapperMax/Split.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="Easy.png">qml/SapperMax/images/Easy.png</file>
+        <file alias="Easy_chosen.png">qml/SapperMax/images/Easy_chosen.png</file>
+        <file alias="Easy_selected.png">qml/SapperMax/images/Easy_selected.png</file>
+        <file alias="Hard.png">qml/SapperMax/images/Hard.png</file>
+        <file alias="Hard_chosen.png">qml/SapperMax/images/Hard_chosen.png</file>
+        <file alias="Hard_selected.png">qml/SapperMax/images/Hard_selected.png</file>
+        <file alias="Medium.png">qml/SapperMax/images/Medium.png</file>
+        <file alias="Medium_chosen.png">qml/SapperMax/images/Medium_chosen.png</file>
+        <file alias="Medium_selected.png">qml/SapperMax/images/Medium_selected.png</file>
+        <file alias="Star.png">qml/SapperMax/images/Star_new.png</file>
+        <file alias="LetfClick.gif">qml/SapperMax/images/LeftClick.gif</file>
+        <file alias="RightClick.gif">qml/SapperMax/images/RightClick.gif</file>
+        <file alias="RightClickBorder.gif">qml/SapperMax/images/RightClickBorder.gif</file>
+    </qresource>
+</RCC>
