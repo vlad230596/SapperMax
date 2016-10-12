@@ -3,7 +3,7 @@
 
 Часто встречаются ситуации, в которых невозможно логически определить, где мина, и приходится угадывать, что может быть неприятно после нескольких минут игры.
 Для решения данной проблемы вам в помощь поступают бонусы, например открытие одной ячейки или целой строки.
-Насладитесь игрой в приятную и улучшенную версию игры. [Скачать архив](https://github.com/vlad230596/SapperMax/blob/master/Sapper%20Max.7z) для Windows.
+Насладитесь игрой в приятную и улучшенную версию игры. [Скачать архив](https://github.com/vlad230596/SapperMax/raw/master/Sapper%20Max.7z) для Windows.
 
 ![текущий интерфейс](https://github.com/vlad230596/SapperMax/blob/master/Screenshot/game.png)
 ![текущий интерфейс](https://github.com/vlad230596/SapperMax/blob/master/Screenshot/info.png)
